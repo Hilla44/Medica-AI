@@ -1,4 +1,4 @@
-# NeuroGuard AI
+# Medica AI
 
 Medica AI is an AI-powered clinical support tool that helps with early detection of brain tumors from medical imaging and provides continuous, real-time health monitoring for patients at risk. https://medica-ai-health-ris-g48t.bolt.host/
 
